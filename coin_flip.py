@@ -7,7 +7,7 @@ n = 1 #lower random number bound
 m = 100 #upper random number bound
 
 i = 0 #initialize loop
-max = 15 #number of times you want to flip the coin
+max = 5 #number of times you want to flip the coin
 
 while(i<max):
     i = i+1
