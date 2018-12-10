@@ -1,3 +1,5 @@
+#this program uses the code already provided in the chapter 2 exercise, and uses a "scale" value to change the size of the smiley face
+
 from cs1lib import start_graphics, clear, draw_circle, draw_rectangle, set_fill_color, set_stroke_color
 
 def draw():
